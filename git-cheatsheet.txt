@@ -1,0 +1,30 @@
+🔁 GIT CHEATSHEET - Sam
+
+🟢 Initialize Git
+git init
+
+📂 Track all files
+git add .
+
+💾 Commit changes
+git commit -m "your message"
+
+⬆️ Push to GitHub (first time)
+git branch -M main
+git remote add origin https://github.com/your-username/your-repo.git
+git push -u origin main
+
+⬆️ Push (after first time)
+git push
+
+⬇️ Pull changes from GitHub
+git pull
+
+📌 Check status
+git status
+
+📜 View commit history
+git log
+
+🧹 Undo changes (not committed)
+git checkout -- filename
