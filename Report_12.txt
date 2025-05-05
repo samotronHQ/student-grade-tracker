@@ -1,0 +1,7 @@
+-------- Report Card --------
+Name       : sam
+Roll Number: 12
+Marks      : 67.00, 78.00, 90.00
+Average    : 78.33
+Grade      : B
+------------------------------
